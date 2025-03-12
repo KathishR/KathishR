@@ -33,18 +33,4 @@ I'm a passionate software developer with expertise in **C, Java, Python, HTML, C
    - **Description:** An Android application for tracking daily expenses. Features include expense categorization, budget tracking, and data visualization.
    - **[View Project](https://github.com/yourusername/expense-tracker)**
 
-## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-## 🌟 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/yourusername)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail)](mailto:youremail@example.com)
-
----
-
-⭐️ From [Your Name](https://github.com/yourusername)
